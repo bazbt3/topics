@@ -9,8 +9,8 @@ Starting small, aiming lower.\*
   I've installed and signed into the Gitter Android app on my phone, but haven't tested a darned thing yet.
 
 ### The original intention:  
-* Create an [Issue](/../../issues/) here as a conversation starter and leave a comment below.  
-   I intend to add an IFTTT.com applet to notify me when something, anything, happens *here*.
+* **Create an [Issue](/../../issues/)** here as a conversation starter, respondents can leave comments below.  
+   I intend to create and add a link to a public IFTTT.com applet to notify when something, anything, happens *here*.
    
 ---
 
