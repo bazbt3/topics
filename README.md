@@ -16,4 +16,4 @@ Starting small, aiming lower.\*
    
 ---
 
-\*I always *wanted* to host the next App.net, but if you want a polished, pleasant experience, go instead to **[10Centuries.org](https://10centuries.org/)**!  See you there, I'm @bazbt3.
+\*I always *wanted* to host the next App.net, but if you want a polished, pleasant experience, go instead to **[10Centuries.org](https://10centuries.org/)**!  The site, currently invite-only) encompasses a social network, blogging and podcasting engines, file storage, note editor, todos...  See you there, I'm @bazbt3.  *(Ask me for an invitation!)*
